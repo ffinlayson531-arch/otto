@@ -1,4 +1,3 @@
---来自凌乱开源 不要跟我狂逼行不行 鱼腥草 老子忍你好久了 快点进行缝合二改吧
 local repo = "https://raw.githubusercontent.com/Raylqaqwa/NOL-Obsidian/refs/heads/main/"
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
